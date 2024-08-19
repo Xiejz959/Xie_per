@@ -1,4 +1,4 @@
-//开链表并正反双向输出(双向链表)
+//开链表并正反双向输出(双向链表 double linked list)
 #include<bits/stdc++.h>
 #define N 50
 using namespace std;

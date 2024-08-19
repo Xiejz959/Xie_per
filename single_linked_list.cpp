@@ -1,4 +1,4 @@
-//创建一个链表并输出（单链表）
+//创建一个链表并输出（单链表 single linked list）
 #include<bits/stdc++.h>
 #define N 100
 using namespace std;
